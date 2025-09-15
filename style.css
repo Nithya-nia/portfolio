@@ -1,0 +1,105 @@
+*{
+    background-color: rgb(1, 1, 35);
+    font-weight: bold;
+    padding:2px;
+}
+    ul,li,.logoname{
+    display:flex;
+    color:white;
+    }
+
+    .logoname{
+        margin-left: 200px;
+    }  
+
+    
+
+header,nav{
+    display: flex;
+    gap: 400px;
+}
+li,ul{
+    margin-right:10px;
+}
+.logoname{
+    color:red;
+    font-size: 22px;
+}
+.section{
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+  
+}
+   
+
+.section-1{
+    display:flex;
+    flex-direction: column;
+   
+    padding-top: 10px;
+    padding-left: 200px;
+    
+}
+.section-2,.im{
+   position:relative;
+   right:250px;
+  
+}
+
+
+
+.intro{
+    color:white;
+    display:inline-block;
+    width:40%;
+  }
+  footer{
+    display:flex;
+  }
+  .footer-1{
+     padding-top: 10px;
+    padding-left: 200px;
+  }
+  .footer-2{
+    color:white;
+    margin-left:250px;
+    width:30%;
+
+   
+  }
+  .btn{
+    background-color:red;
+    color:white;
+    border-radius: 5px;
+    padding:10px 20px
+    
+  }
+
+  .icon{
+    color:red;
+  }
+  .menu{
+    color:white;
+  }
+
+  .fb{
+    border: solid;
+    border-radius: 50%;
+  }
+  .tw{
+    border: solid;
+    border-radius: 50%;
+  }
+  .ln{
+    border: solid;
+    border-radius: 50%;
+  }
+ .ig{
+    border: solid;
+    border-radius: 50%;
+  }
+  .ml{
+    border: solid;
+    border-radius: 50%;
+  }
